@@ -17,6 +17,18 @@ Read the data for January. How many columns are there?
 * 18
 * 19
 
+<details>
+<summary>Solution</summary>
+<br>
+
+- [ ] 16
+- [ ] 17
+- [ ] 18
+- [x] 19
+
+<br>
+</details>
+
 
 ## Q2. Computing duration
 
@@ -29,6 +41,17 @@ What's the standard deviation of the trips duration in January?
 * 52.59
 * 62.59
 
+<details>
+<summary>Solution</summary>
+<br>
+
+- [ ] 32.59
+- [x] 42.59
+- [ ] 52.59
+- [ ] 62.59
+
+<br>
+</details>
 
 ## Q3. Dropping outliers
 
@@ -41,6 +64,17 @@ What fraction of the records left after you dropped the outliers?
 * 95%
 * 98%
 
+<details>
+<summary>Solution</summary>
+<br>
+
+- [ ] 90% 
+- [ ] 92% 
+- [ ] 95% 
+- [x] 98% 
+
+<br>
+</details>
 
 ## Q4. One-hot encoding
 
@@ -59,6 +93,18 @@ What's the dimensionality of this matrix (number of columns)?
 * 515
 * 715
 
+<details>
+<summary>Solution</summary>
+<br>
+
+- [ ] 2
+- [ ] 155
+- [ ] 345
+- [x] 515
+- [ ] 715
+
+<br>
+</details>
 
 ## Q5. Training a model
 
@@ -74,6 +120,17 @@ What's the RMSE on train?
 * 11.64
 * 16.64
 
+<details>
+<summary>Solution</summary>
+<br>
+
+- [ ] 3.64
+- [x] 7.64
+- [ ] 11.64
+- [ ] 16.64
+
+<br>
+</details>
 
 ## Q6. Evaluating the model
 
@@ -85,6 +142,18 @@ What's the RMSE on validation?
 * 7.81
 * 11.81
 * 16.81
+
+<details>
+<summary>Solution</summary>
+<br>
+
+- [ ] 3.81
+- [x] 7.81
+- [ ] 11.81
+- [ ] 16.81
+
+<br>
+</details>
 
 ## Submit the results
 
